@@ -22,8 +22,9 @@
 &emsp;宝宝档案则重点记录孩童的疲劳度和舒适度检测结果，为家长提供科学依据，帮助调整孩童的乘车环境和行为，以提高乘车安全性和舒适性。  
 &emsp;历史预警部分存档了孩童过去可能的危险行为，如解除安全带、玩弄车门和车窗、身体探出窗外等情况的预警记录。这一功能旨在通过历史数据分析，使家长能够识别并预防重复的危险行为，进一步提高孩童的乘车安全。  
 <hr>
-<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/home%20page.jpg" width="400px">
-<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/Personal%20Center.jpg" width="400px">
+|||
+|--|--|
+| <img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/home%20page.jpg" width="400px"> | <img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/Personal%20Center.jpg" width="400px"> |
 
 <p align="center">
 <img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/function%20.jpg" width="400px">

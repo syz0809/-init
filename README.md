@@ -26,10 +26,10 @@
 <table>
  <tr>
   <td>
-<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/home%20page.jpg" width="300px">
+<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/home%20page.jpg" width="400px">
   </td>
   <td>
-<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/Personal%20Center.jpg" width="300px">
+<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/Personal%20Center.jpg" width="400px">
   </td>
  </tr>
 </table>

@@ -11,6 +11,9 @@
 在个人中心页面上，用户可以访问包括哭闹次数、危险动作监测、总预警次数、VIP会员剩余天数，以及陪伴出行次数、实时监控查看功能和VIP充值系统等多种信息和服务。该页面旨在提供一个综合性的信息汇总，以辅助家长更有效地管理和监督孩童的乘车体验。
 其中，智能化育儿指导功能针对新手父母，提供专业的育儿帮助和小贴士，以预防孩童执行危险动作，增强父母对潜在风险的认知和应对能力。宝宝档案则重点记录孩童的疲劳度和舒适度检测结果，为家长提供科学依据，帮助调整孩童的乘车环境和行为，以提高乘车安全性和舒适性。
 历史预警部分存档了孩童过去可能的危险行为，如解除安全带、玩弄车门和车窗、身体探出窗外等情况的预警记录。这一功能旨在通过历史数据分析，使家长能够识别并预防重复的危险行为，进一步提高孩童的乘车安全。
+<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/home%20page.jpg" width="400px">
+<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/Personal%20Center.jpg" width="400px">
+<img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/function%20.jpg" width="400px">
 
 
 ## 技术运用

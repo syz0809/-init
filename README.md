@@ -23,10 +23,16 @@
 &emsp;历史预警部分存档了孩童过去可能的危险行为，如解除安全带、玩弄车门和车窗、身体探出窗外等情况的预警记录。这一功能旨在通过历史数据分析，使家长能够识别并预防重复的危险行为，进一步提高孩童的乘车安全。  
 <hr>
 
-<table><tr><td>
+<table>
+ <tr>
+  <td>
 <img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/home%20page.jpg" width="300px">
+  </td>
+  <td>
 <img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/Personal%20Center.jpg" width="300px">
-</td></tr></table>
+  </td>
+ </tr>
+</table>
 
 <p align="center">
 <img src="https://github.com/syz0809/Angel-Vue.js-0415/blob/master/image/function%20.jpg" width="400px">

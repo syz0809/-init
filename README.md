@@ -1,8 +1,16 @@
+# 小程序介绍
 ## 功能介绍 
 
- 面向各类公共体育场所，校园对外开放体育设施，社区健身设施等，提供场所管理、场所统计、场所可预订时段与价格管理，费用计算、扣费记录、预订登记（支持连选多个时段），用户可以实时查看自己的费用余额，费用消耗情况，费用使用记录。后台也可以随时增减用户的账户金额。 本系统前后端完整，包括最新通知，场地预约，单选或者多选预订时段，后台管理，用户管理，待注册用户录入，用户金额数后台增减，预订名单管理，预订记录管理与导出，我的预订，历史浏览，我的收藏等模块，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
-![image](https://user-images.githubusercontent.com/85994589/227727855-0600daa8-d9b8-4be4-a3ca-fd9d850f4e42.png)
-![image](https://user-images.githubusercontent.com/85994589/227727858-848c6608-d097-469b-ad2a-3ce4b8705316.png)
+ 本团队制作的微信小程序采用了基于 Vue.js 的 uni-app 框架。此框架具有跨平台发行，运行体验好，组件丰富等优点。同时，uni-app 框架采用多端开发，一套代码可发布到 iOS、Android、Web(响应式)、以及各种小程序(微信、支付宝等)、快应用等多个平台，从而极大提高了开发效率。
+ ### (1) 功能中心界面
+在微信小程序的功能中心模块中，用户登录后可获得一系列增强孩童乘车体验和安全的多功能服务。首先，"娱乐视频音乐"功能使用户能够在孩子需要娱乐或安抚时播放视频和音乐，满足孩童的情绪需求。接着，"车内环境"功能提供车内温度、湿度、空气质量、氧气含量以及紫外线强度等关键数据，确保乘车环境的舒适性与安全性。通过"宝宝状况"选项，用户可以实时查看孩童的体温、血氧和心率等重要健康指标，从而实现对孩童健康状态的监控。
+此外，"孩童乘车报告"功能能记录每次乘车过程中孩童可能出现的晕车情况和潜在的危险行为，增强乘车安全监控。"宝宝疲劳度评分"则通过体征传感器和动态规划滤波算法，监测后座孩童的心率、血氧等生理指标，评估其疲劳状态，旨在通过科学算法提前预防孩童疲劳。
+"最受喜爱驾驶员排行榜"依据孩童舒适度和疲劳度的数据分析，展示了驾驶员在孩童用户中的受欢迎程度，促进驾驶员提升服务质量。"宝宝危险动作预警"利用人脸姿态估计模型，实时监控孩童姿态以预警潜在的危险行为，例如解除安全带，增强乘车安全防范。
+"车内意外锁人处理"功能通过监控系统记录孩童在车内未离开的情况，为紧急情况提供及时的响应支持。最后，"双向通话"功能保留孩童与家人的通话历史，确保必要时能够迅速联系。
+### (2) 个人中心界面
+在个人中心页面上，用户可以访问包括哭闹次数、危险动作监测、总预警次数、VIP会员剩余天数，以及陪伴出行次数、实时监控查看功能和VIP充值系统等多种信息和服务。该页面旨在提供一个综合性的信息汇总，以辅助家长更有效地管理和监督孩童的乘车体验。
+其中，智能化育儿指导功能针对新手父母，提供专业的育儿帮助和小贴士，以预防孩童执行危险动作，增强父母对潜在风险的认知和应对能力。宝宝档案则重点记录孩童的疲劳度和舒适度检测结果，为家长提供科学依据，帮助调整孩童的乘车环境和行为，以提高乘车安全性和舒适性。
+历史预警部分存档了孩童过去可能的危险行为，如解除安全带、玩弄车门和车窗、身体探出窗外等情况的预警记录。这一功能旨在通过历史数据分析，使家长能够识别并预防重复的危险行为，进一步提高孩童的乘车安全。
 
 
 ## 技术运用
@@ -16,57 +24,5 @@
 
 ## 作者
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信: 
- ![image](https://user-images.githubusercontent.com/85994589/227727873-5fcad349-504d-451e-842b-3b1cbbef5b1a.png)
-
-
-
-
-## 演示 
- ![image](https://user-images.githubusercontent.com/85994589/227727878-dd6e1af5-97c8-4291-bc81-0f8878e433f5.png)
-
-
-## 安装
-
-- 安装手册见源码包里的word文档
-
-
-
-
-## 截图
-![image](https://user-images.githubusercontent.com/85994589/227727885-384f5877-db6a-4b20-89ed-74c83ee584ea.png)
-![image](https://user-images.githubusercontent.com/85994589/227727889-c7cf8d7a-9f14-42b7-b688-130f6ca06547.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727894-37dc5ef8-648f-4df6-9c4d-3589cf29c0ab.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727900-985e8bfb-a47e-4fe0-b164-a2d601c5e32a.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727904-0bf65f0e-b484-40b2-9a54-4a3303fcd15b.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727906-7e7f7faa-66e8-4aaf-952b-34fb20e86ba2.png)
-![image](https://user-images.githubusercontent.com/85994589/227727910-979eb49c-554a-4443-9907-b740fc0af411.png)
-
-
-
- 
-
-## 后台管理系统截图 
-- 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![image](https://user-images.githubusercontent.com/85994589/227727916-085665ed-a91b-4b6a-b377-9ee13b07a177.png)
-![image](https://user-images.githubusercontent.com/85994589/227727921-734404e3-d0e5-4907-a0ed-df5ab4a44378.png)
-![image](https://user-images.githubusercontent.com/85994589/227727924-d3b8e2b4-1ed6-46d3-be6d-eee5928fc415.png)
-![image](https://user-images.githubusercontent.com/85994589/227727929-d38773ea-3a7f-4807-b77c-76ad63467748.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727931-4a835642-a1b3-4201-8e5d-12c9fc7522f4.png)
-![image](https://user-images.githubusercontent.com/85994589/227727937-806c253d-f8ed-4545-b59a-61472f9f5726.png)
-![image](https://user-images.githubusercontent.com/85994589/227727939-54d0ba12-a413-45eb-a8a7-dbc136ff57a8.png)
-![image](https://user-images.githubusercontent.com/85994589/227727946-20e3f262-8c89-4a22-81f2-9c4e0256be96.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727950-9c9c1ffd-b65c-4a75-8493-80633724af1d.png)
-
-![image](https://user-images.githubusercontent.com/85994589/227727951-9e0e6268-9671-44ed-8509-16fdf3e79876.png)
-
-
-
-
+- 团队公众号：伴行天使 
 
